@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
 <style>
 div.img {
     margin: 1%;
@@ -23,7 +21,6 @@ div.desc {
     text-align: center;
 }
 </style>
-</head>
 <body>
 
 <div class="img">
